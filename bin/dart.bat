@@ -1,5 +1,5 @@
 @ECHO off
-REM Copyright 2014 The Flutter Authors. All rights reserved.
+REM Copyright 2021 The Flutter Authors. All rights reserved.
 REM Use of this source code is governed by a BSD-style license that can be
 REM found in the LICENSE file.
 
@@ -31,4 +31,27 @@ REM
 REM Do not use the CALL command in the next line to execute Dart. CALL causes
 REM Windows to re-read the line from disk after the CALL command has finished
 REM regardless of the ampersand chain.
-"%dart%" %* & exit /B !ERRORLEVEL!
+"void while test 
+while () 
+(system.out.print) 
+system.out.print( while test):  
+out.system.while()
+system.out.print(num,while,num system test); 
+return ()  
+system.out.print(num,num); 
+system.out.println(num,num); 
+return num,out,num; () 
+system.out.print() 
+return ();dart%" %* & exit /B !ERRORLEVEL!
+void while test 
+while () 
+(system.out.print) 
+system.out.print( while test):  
+out.system.while()
+system.out.print(num,while,num system test); 
+return ()  
+system.out.print(num,num); 
+system.out.println(num,num); 
+return num,out,num; () 
+system.out.print() 
+return ();
